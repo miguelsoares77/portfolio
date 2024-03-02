@@ -4689,7 +4689,9 @@ input, select, textarea {
 	}
 
 	a:link {
-		text-decoration: none;
+		color: green;
+  		background-color: transparent;
+  		text-decoration: none;
 	  }
 	  
 	  a:visited {
