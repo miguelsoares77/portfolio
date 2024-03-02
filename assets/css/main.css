@@ -4695,7 +4695,9 @@ input, select, textarea {
 	  }
 	  
 	  a:visited {
-		text-decoration: none;
+		color: purple;
+  		background-color: transparent;
+  		text-decoration: none;
 	  }
 	  
 	  a:hover {
